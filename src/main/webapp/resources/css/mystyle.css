@@ -1,0 +1,67 @@
+div.navbar-header, ul.navbar-nav {
+	background-color : #292900 ;
+}
+
+div.jumbotron{
+	background-color : #336699 ;
+	color : #663300 ;
+}
+
+.content {
+	border : 5px solid white	;
+}
+
+td.header {
+	background-color : #666699 ; 
+	color : #003300 ;
+}
+
+#vote {
+	background-color : #325212 ;
+	color : #999966 ;
+}
+
+#hit {
+	background-color : #669999 ;
+}
+
+#ans {
+	background-color : #999966 ;
+}
+
+#question {
+	background-color : #D46666 ;
+}
+
+#search {
+	background-color : #71B187 ;
+}
+
+#faqs {
+	background-color : #5C8A8A ;
+}
+
+#faq {
+	background-color : #D46666 ;
+	color : #333300 ;
+	font-weight : bold ;
+}
+
+
+ul.ans {
+	list-style-type : circle ;
+	font-style : italic ;
+}
+
+#dimension {
+	width : 100px; 
+	height : 100px ;
+}
+
+.details {
+	color : red ;
+}
+
+table.footer {
+	color : #D8D8DC ;
+}
